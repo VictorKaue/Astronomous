@@ -1,0 +1,1965 @@
+{
+  "activityEntities" : [
+    "trainingFinished",
+    [
+      {
+        "createdDate" : "2025-12-05T18:18:03Z",
+        "event" : "trainingFinished",
+        "id" : "0E5A4A04-540C-47FF-8B99-76D6E3550F72",
+        "subtitle" : "80 iterations",
+        "title" : "Training Completed"
+      }
+    ],
+    "evaluationStarted",
+    [
+      {
+        "createdDate" : "2025-12-05T18:18:05Z",
+        "event" : "evaluationStarted",
+        "id" : "C441CED8-FE72-4441-B646-05B94505783A",
+        "subtitle" : "MyHandPoseClassifier 1",
+        "title" : "Testing Started"
+      }
+    ],
+    "evaluationDataAdded",
+    [
+      {
+        "createdDate" : "2025-12-05T18:17:23Z",
+        "event" : "evaluationDataAdded",
+        "id" : "1D917DA4-A05A-42DE-BC90-BCDAECD1FA86",
+        "subtitle" : "Teste",
+        "title" : "Testing Data Added"
+      }
+    ],
+    "evaluationFinished",
+    [
+      {
+        "createdDate" : "2025-12-05T18:18:08Z",
+        "event" : "evaluationFinished",
+        "id" : "07540F13-BDD6-4564-A9B1-1BD53AE2A88A",
+        "subtitle" : "MyHandPoseClassifier 1",
+        "title" : "Testing Completed"
+      }
+    ],
+    "trainingDataAdded",
+    [
+      {
+        "createdDate" : "2025-12-05T18:17:21Z",
+        "event" : "trainingDataAdded",
+        "id" : "13155ED8-1AE1-4DA5-AE16-7B1EAC3D6A4E",
+        "subtitle" : "Training",
+        "title" : "Training Data Added"
+      }
+    ],
+    "experimentCreated",
+    [
+      {
+        "createdDate" : "2025-12-05T18:17:00Z",
+        "event" : "experimentCreated",
+        "id" : "32FAD44E-BE77-4360-9240-396BAE7AEC0A",
+        "subtitle" : "MyHandPoseClassifier 1",
+        "title" : "Model Source Created"
+      }
+    ],
+    "trainingStarted",
+    [
+      {
+        "createdDate" : "2025-12-05T18:17:25Z",
+        "event" : "trainingStarted",
+        "id" : "99273C45-01FB-42C0-B14B-9B0687189FC1",
+        "subtitle" : "80 iterations",
+        "title" : "Training Started"
+      }
+    ]
+  ],
+  "contentDataResult" : {
+    "createdDate" : "2025-12-05T18:17:00Z"
+  },
+  "createdDate" : "2025-12-05T18:17:00Z",
+  "evaluationContainerEntity" : {
+    "createdDate" : "2025-12-05T18:18:08Z",
+    "evaluationEntities" : [
+
+    ],
+    "id" : "a1634879-4fb2-4ea9-9530-887f85f0962b",
+    "modifiedDate" : "2025-12-05T18:18:08Z",
+    "previewType" : "handPoseClassifier",
+    "testingEvaluationEntity" : {
+      "accuracy" : 0.5862069129943848,
+      "analysedDataType" : "datasource",
+      "createdDate" : "2025-12-05T18:17:00Z",
+      "dataResult" : {
+        "classesCount" : 3,
+        "createdDate" : "2025-12-05T18:17:00Z",
+        "dataAnalysis" : {
+          "classifierAnalysis" : {
+            "details" : [
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4088.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4111.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4114.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4137.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4133.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4130.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4131.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4109.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4108.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4097.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4112.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4095.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4092.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4132.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4134.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4135.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4113.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4089.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4091.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4096.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4128.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4136.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4094.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4129.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4110.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4093.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4098.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4138.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4090.HEIC",
+              [
+                "Open"
+              ]
+            ],
+            "labelStats" : {
+              "Close" : 11,
+              "Neutral" : 7,
+              "Open" : 11
+            }
+          },
+          "issues" : [
+            {
+              "description" : "3 classes found, including Close, Open, Neutral",
+              "severity" : "debug"
+            },
+            {
+              "description" : "Less than 50 total images found - add more to improve model validation",
+              "severity" : "warning"
+            },
+            {
+              "description" : "Smallest class is \"Neutral\" with 7 images",
+              "severity" : "debug"
+            },
+            {
+              "description" : "Largest class is \"Close\" with 11 images",
+              "severity" : "debug"
+            }
+          ],
+          "objectDetectorAnalysis" : {
+            "details" : {
+
+            }
+          },
+          "summary" : {
+            "canUseValidation" : 0,
+            "classCount" : 3,
+            "sampleCount" : 29
+          }
+        },
+        "dataSourceID" : "10CD303A-A12D-456D-AB8E-B043FF6FCF77",
+        "dataURL" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/",
+        "itemsCount" : 29
+      },
+      "dataSourceID" : "10CD303A-A12D-456D-AB8E-B043FF6FCF77",
+      "evaluationResult" : {
+        "handPoseClassifier" : {
+          "accuracy" : 0.5862069129943848,
+          "confusionMatrix" : [
+            {
+              "actual" : "Open",
+              "count" : 5,
+              "expected" : "Open"
+            },
+            {
+              "actual" : "Open",
+              "count" : 6,
+              "expected" : "Neutral"
+            },
+            {
+              "actual" : "Close",
+              "count" : 9,
+              "expected" : "Close"
+            },
+            {
+              "actual" : "Close",
+              "count" : 2,
+              "expected" : "Neutral"
+            },
+            {
+              "actual" : "Neutral",
+              "count" : 4,
+              "expected" : "Open"
+            },
+            {
+              "actual" : "Neutral",
+              "count" : 3,
+              "expected" : "Neutral"
+            }
+          ],
+          "detail" : {
+            "predictions" : {
+              "Close" : [
+                {
+                  "truePositive" : {
+
+                  }
+                },
+                [
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 0.99902344,
+                      "Neutral" : 0.0005712509,
+                      "Open" : 2.7418137e-06
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4131.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 0.7114258,
+                      "Neutral" : 0.28686523,
+                      "Open" : 0.0014591217
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4136.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 1,
+                      "Neutral" : 7.104874e-05,
+                      "Open" : 1.7881393e-06
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4130.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 0.7871094,
+                      "Neutral" : 0.21154785,
+                      "Open" : 0.0016498566
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4137.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 1,
+                      "Neutral" : 8.08835e-05,
+                      "Open" : 1.66893e-06
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4129.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 0.94921875,
+                      "Neutral" : 0.050842285,
+                      "Open" : 4.4941902e-05
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4133.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 0.97802734,
+                      "Neutral" : 0.021728516,
+                      "Open" : 3.9339066e-05
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4132.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 0.8803711,
+                      "Neutral" : 0.118652344,
+                      "Open" : 0.0008277893
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4138.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Close",
+                    "predictions" : {
+                      "Close" : 1,
+                      "Neutral" : 2.503395e-06,
+                      "Open" : 2.9802322e-07
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4128.HEIC"
+                  }
+                ],
+                {
+                  "falseNegative" : {
+
+                  }
+                },
+                [
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.21972656,
+                      "Neutral" : 0.77978516,
+                      "Open" : 0.00062322617
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4135.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.28271484,
+                      "Neutral" : 0.71728516,
+                      "Open" : 0.00018584728
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4134.HEIC"
+                  }
+                ],
+                {
+                  "falsePositive" : {
+
+                  }
+                },
+                [
+
+                ]
+              ],
+              "Neutral" : [
+                {
+                  "falsePositive" : {
+
+                  }
+                },
+                [
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 2.6226044e-06,
+                      "Neutral" : 1,
+                      "Open" : 8.940697e-07
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4092.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 1.3709068e-06,
+                      "Neutral" : 1,
+                      "Open" : 2.9802322e-07
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4093.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.001039505,
+                      "Neutral" : 0.9086914,
+                      "Open" : 0.09063721
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4098.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 1.2040138e-05,
+                      "Neutral" : 1,
+                      "Open" : 0.000103235245
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4094.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.00018084049,
+                      "Neutral" : 0.9980469,
+                      "Open" : 0.0014238358
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4097.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 2.0563602e-05,
+                      "Neutral" : 1,
+                      "Open" : 4.0471554e-05
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4095.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.21972656,
+                      "Neutral" : 0.77978516,
+                      "Open" : 0.00062322617
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4135.HEIC"
+                  },
+                  {
+                    "actual" : "Close",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.28271484,
+                      "Neutral" : 0.71728516,
+                      "Open" : 0.00018584728
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Close/IMG_4134.HEIC"
+                  }
+                ],
+                {
+                  "falseNegative" : {
+
+                  }
+                },
+                [
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.00011217594,
+                      "Neutral" : 0.0028762817,
+                      "Open" : 0.9970703
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4111.HEIC"
+                  },
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.00031256676,
+                      "Neutral" : 0.23840332,
+                      "Open" : 0.76123047
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4114.HEIC"
+                  },
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.0011739731,
+                      "Neutral" : 0.13049316,
+                      "Open" : 0.86865234
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4112.HEIC"
+                  },
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.00021708012,
+                      "Neutral" : 0.2524414,
+                      "Open" : 0.7475586
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4113.HEIC"
+                  }
+                ],
+                {
+                  "truePositive" : {
+
+                  }
+                },
+                [
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.00022661686,
+                      "Neutral" : 0.92822266,
+                      "Open" : 0.071777344
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4108.HEIC"
+                  },
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.0011415482,
+                      "Neutral" : 0.9980469,
+                      "Open" : 0.0009536743
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4109.HEIC"
+                  },
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.00554657,
+                      "Neutral" : 0.5473633,
+                      "Open" : 0.44677734
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4110.HEIC"
+                  }
+                ]
+              ],
+              "Open" : [
+                {
+                  "truePositive" : {
+
+                  }
+                },
+                [
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.0015249252,
+                      "Neutral" : 0.37426758,
+                      "Open" : 0.625
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4088.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.00094127655,
+                      "Neutral" : 0.23156738,
+                      "Open" : 0.7675781
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4096.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.0012874603,
+                      "Neutral" : 0.22753906,
+                      "Open" : 0.7709961
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4091.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 4.4345856e-05,
+                      "Neutral" : 0.0012588501,
+                      "Open" : 0.99902344
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4090.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.0006055832,
+                      "Neutral" : 0.05911255,
+                      "Open" : 0.9404297
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4089.HEIC"
+                  }
+                ],
+                {
+                  "falseNegative" : {
+
+                  }
+                },
+                [
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 2.6226044e-06,
+                      "Neutral" : 1,
+                      "Open" : 8.940697e-07
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4092.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 1.3709068e-06,
+                      "Neutral" : 1,
+                      "Open" : 2.9802322e-07
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4093.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.001039505,
+                      "Neutral" : 0.9086914,
+                      "Open" : 0.09063721
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4098.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 1.2040138e-05,
+                      "Neutral" : 1,
+                      "Open" : 0.000103235245
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4094.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 0.00018084049,
+                      "Neutral" : 0.9980469,
+                      "Open" : 0.0014238358
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4097.HEIC"
+                  },
+                  {
+                    "actual" : "Open",
+                    "predicted" : "Neutral",
+                    "predictions" : {
+                      "Close" : 2.0563602e-05,
+                      "Neutral" : 1,
+                      "Open" : 4.0471554e-05
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Open/IMG_4095.HEIC"
+                  }
+                ],
+                {
+                  "falsePositive" : {
+
+                  }
+                },
+                [
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.00011217594,
+                      "Neutral" : 0.0028762817,
+                      "Open" : 0.9970703
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4111.HEIC"
+                  },
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.00031256676,
+                      "Neutral" : 0.23840332,
+                      "Open" : 0.76123047
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4114.HEIC"
+                  },
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.0011739731,
+                      "Neutral" : 0.13049316,
+                      "Open" : 0.86865234
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4112.HEIC"
+                  },
+                  {
+                    "actual" : "Neutral",
+                    "predicted" : "Open",
+                    "predictions" : {
+                      "Close" : 0.00021708012,
+                      "Neutral" : 0.2524414,
+                      "Open" : 0.7475586
+                    },
+                    "url" : "file:///Users/victorkaue/Downloads/HandsPoses/Teste/Neutral/IMG_4113.HEIC"
+                  }
+                ]
+              ]
+            }
+          },
+          "statsByLabel" : {
+            "Close" : {
+              "count" : 11,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 0.8181818127632141
+                }
+              }
+            },
+            "Neutral" : {
+              "count" : 7,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.27272728085517883,
+                  "recall" : 0.4285714328289032
+                }
+              }
+            },
+            "Open" : {
+              "count" : 11,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.5555555820465088,
+                  "recall" : 0.4545454680919647
+                }
+              }
+            }
+          }
+        }
+      },
+      "finishTime" : "2025-12-05T18:18:08Z",
+      "id" : "fddbba88-c29f-4913-86ce-2ed1387bacf1",
+      "startTime" : "2025-12-05T18:18:05Z"
+    },
+    "trainingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2025-12-05T18:17:00Z",
+      "dataResult" : {
+        "classesCount" : 3,
+        "createdDate" : "2025-12-05T18:17:00Z",
+        "dataAnalysis" : {
+          "classifierAnalysis" : {
+            "details" : [
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4104.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4080.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4096.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4115.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4119.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4083.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4069.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4126.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4084.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4078.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4068.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4107.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4087.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4076.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4106.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4116.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4120.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4102.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4095.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4097.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4072.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4066.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4118.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4105.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4100.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4077.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4071.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4065.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4099.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4081.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4082.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4125.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4101.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4094.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4086.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4070.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4067.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4127.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4073.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4075.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4079.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4122.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4085.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4117.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4103.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4098.HEIC",
+              [
+                "Neutral"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4121.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4123.HEIC",
+              [
+                "Close"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4074.HEIC",
+              [
+                "Open"
+              ],
+              "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4124.HEIC",
+              [
+                "Close"
+              ]
+            ],
+            "labelStats" : {
+              "Close" : 13,
+              "Neutral" : 14,
+              "Open" : 23
+            }
+          },
+          "issues" : [
+            {
+              "description" : "3 classes found, including Open, Neutral, Close",
+              "severity" : "debug"
+            },
+            {
+              "description" : "50 images found, automatically creating validation set",
+              "severity" : "good"
+            },
+            {
+              "description" : "Smallest class is \"Close\" with 13 images",
+              "severity" : "debug"
+            },
+            {
+              "description" : "Largest class is \"Open\" with 23 images",
+              "severity" : "debug"
+            }
+          ],
+          "objectDetectorAnalysis" : {
+            "details" : {
+
+            }
+          },
+          "summary" : {
+            "canUseValidation" : 1,
+            "classCount" : 3,
+            "sampleCount" : 50
+          }
+        },
+        "dataSourceID" : "7CCB215E-01F2-47E6-8C0D-D4C7BD881A8E",
+        "dataURL" : "file:///Users/victorkaue/Downloads/HandsPoses/Training/",
+        "itemsCount" : 50
+      },
+      "dataSourceID" : "7CCB215E-01F2-47E6-8C0D-D4C7BD881A8E",
+      "evaluationResult" : {
+        "actionClassifier" : {
+          "accuracy" : 1,
+          "confusionMatrix" : [
+            {
+              "actual" : "Open",
+              "count" : 21,
+              "expected" : "Open"
+            },
+            {
+              "actual" : "Close",
+              "count" : 12,
+              "expected" : "Close"
+            },
+            {
+              "actual" : "Neutral",
+              "count" : 13,
+              "expected" : "Neutral"
+            }
+          ],
+          "statsByLabel" : {
+            "Close" : {
+              "count" : 12,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 1
+                }
+              }
+            },
+            "Neutral" : {
+              "count" : 13,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 1
+                }
+              }
+            },
+            "Open" : {
+              "count" : 21,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 1
+                }
+              }
+            }
+          }
+        }
+      },
+      "id" : "fa07c2e0-ab9f-4260-bb02-5c094d00a613"
+    },
+    "validationEvaluationEntity" : {
+      "analysedDataType" : "auto",
+      "createdDate" : "2025-12-05T18:17:00Z",
+      "dataResult" : {
+        "createdDate" : "2025-12-05T18:17:00Z"
+      },
+      "evaluationResult" : {
+        "actionClassifier" : {
+          "accuracy" : 1,
+          "confusionMatrix" : [
+            {
+              "actual" : "Open",
+              "count" : 2,
+              "expected" : "Open"
+            },
+            {
+              "actual" : "Close",
+              "count" : 1,
+              "expected" : "Close"
+            },
+            {
+              "actual" : "Neutral",
+              "count" : 1,
+              "expected" : "Neutral"
+            }
+          ],
+          "statsByLabel" : {
+            "Close" : {
+              "count" : 1,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 1
+                }
+              }
+            },
+            "Neutral" : {
+              "count" : 1,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 1
+                }
+              }
+            },
+            "Open" : {
+              "count" : 2,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 1
+                }
+              }
+            }
+          }
+        }
+      },
+      "id" : "5486420e-0ff9-483f-af09-af81f918f6c1"
+    }
+  },
+  "evaluationEntity" : {
+    "analysedDataType" : "none",
+    "dataResult" : {
+
+    },
+    "id" : "3805f9ee-5729-4615-af13-b008c973ec76"
+  },
+  "evaluationState" : "evaluated",
+  "id" : "D3DAFB3C-36C3-4373-807B-C2B9BDBAB226",
+  "modelEntity" : {
+    "createdDate" : "2025-12-05T18:17:00Z",
+    "experimentID" : "D3DAFB3C-36C3-4373-807B-C2B9BDBAB226",
+    "id" : "40F9F6D5-4AE2-4D1B-B179-3EBEC1CDC8AC",
+    "modelURL" : "Models/MyHandPoseClassifier%201.mlmodel",
+    "modifiedDate" : "2025-12-05T18:17:00Z",
+    "title" : "",
+    "version" : "1.0"
+  },
+  "modifiedDate" : "2025-12-05T18:18:08Z",
+  "preferredFilename" : "MyHandPoseClassifier 1",
+  "settingEntity" : {
+    "algorithmType" : "maxEnt",
+    "augmentations" : [
+
+    ],
+    "featureNames" : [
+
+    ],
+    "handActionClassifierAugmentations" : [
+
+    ],
+    "handPoseClassifierAugmentations" : [
+
+    ],
+    "harVideoAugmentations" : 0,
+    "iterationCount" : 80,
+    "seedType" : "default",
+    "styleTransferAlgorithmType" : "image",
+    "taskType" : "handPoseClassifier",
+    "transferLearningEmbeddingType" : "dynamic"
+  },
+  "snapshotRole" : {
+    "withoutSnapshots" : 0
+  },
+  "state" : "trained",
+  "title" : "MyHandPoseClassifier 1",
+  "trainingEntity" : {
+    "analysedDataType" : "datasource",
+    "checkpointMetrics" : {
+      "10" : {
+        "createdDate" : "2025-12-05T18:17:42Z",
+        "iteration" : 10,
+        "metrics" : {
+          "Train Accuracy" : 1,
+          "Train Loss" : 0.005717965686202643,
+          "Validation Accuracy" : 1,
+          "Validation Loss" : 0.08762140970418948
+        }
+      },
+      "20" : {
+        "createdDate" : "2025-12-05T18:17:45Z",
+        "iteration" : 20,
+        "metrics" : {
+          "Train Accuracy" : 1,
+          "Train Loss" : 0.0010237782331767367,
+          "Validation Accuracy" : 1,
+          "Validation Loss" : 0.03932339351366062
+        }
+      },
+      "30" : {
+        "createdDate" : "2025-12-05T18:17:48Z",
+        "iteration" : 30,
+        "metrics" : {
+          "Train Accuracy" : 1,
+          "Train Loss" : 0.00100052204279609,
+          "Validation Accuracy" : 1,
+          "Validation Loss" : 0.014138999072336914
+        }
+      },
+      "40" : {
+        "createdDate" : "2025-12-05T18:17:51Z",
+        "iteration" : 40,
+        "metrics" : {
+          "Train Accuracy" : 1,
+          "Train Loss" : 0.0006414396197196857,
+          "Validation Accuracy" : 1,
+          "Validation Loss" : 0.019870218959185157
+        }
+      },
+      "50" : {
+        "createdDate" : "2025-12-05T18:17:54Z",
+        "iteration" : 50,
+        "metrics" : {
+          "Train Accuracy" : 1,
+          "Train Loss" : 0.0018343394297865494,
+          "Validation Accuracy" : 1,
+          "Validation Loss" : 0.022507781660792852
+        }
+      },
+      "60" : {
+        "createdDate" : "2025-12-05T18:17:57Z",
+        "iteration" : 60,
+        "metrics" : {
+          "Train Accuracy" : 1,
+          "Train Loss" : 0.0005072892055063699,
+          "Validation Accuracy" : 1,
+          "Validation Loss" : 0.02588447884167775
+        }
+      },
+      "70" : {
+        "createdDate" : "2025-12-05T18:18:00Z",
+        "iteration" : 70,
+        "metrics" : {
+          "Train Accuracy" : 1,
+          "Train Loss" : 0.001283192923709528,
+          "Validation Accuracy" : 1,
+          "Validation Loss" : 0.019158633186085388
+        }
+      },
+      "80" : {
+        "createdDate" : "2025-12-05T18:18:03Z",
+        "iteration" : 80,
+        "metrics" : {
+          "Train Accuracy" : 1,
+          "Train Loss" : 0.00044248652973430077,
+          "Validation Accuracy" : 1,
+          "Validation Loss" : 0.023302517019876158
+        }
+      }
+    },
+    "dataResult" : {
+      "classesCount" : 3,
+      "createdDate" : "2025-12-05T18:17:00Z",
+      "dataAnalysis" : {
+        "classifierAnalysis" : {
+          "details" : [
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4104.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4080.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4096.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4115.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4119.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4083.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4069.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4126.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4084.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4078.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4068.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4107.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4087.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4076.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4106.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4116.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4120.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4102.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4095.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4097.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4072.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4066.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4118.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4105.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4100.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4077.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4071.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4065.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4099.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4081.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4082.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4125.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4101.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4094.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4086.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4070.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4067.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4127.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4073.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4075.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4079.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4122.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4085.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4117.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4103.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4098.HEIC",
+            [
+              "Neutral"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4121.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4123.HEIC",
+            [
+              "Close"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4074.HEIC",
+            [
+              "Open"
+            ],
+            "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4124.HEIC",
+            [
+              "Close"
+            ]
+          ],
+          "labelStats" : {
+            "Close" : 13,
+            "Neutral" : 14,
+            "Open" : 23
+          }
+        },
+        "issues" : [
+          {
+            "description" : "3 classes found, including Open, Neutral, Close",
+            "severity" : "debug"
+          },
+          {
+            "description" : "50 images found, automatically creating validation set",
+            "severity" : "good"
+          },
+          {
+            "description" : "Smallest class is \"Close\" with 13 images",
+            "severity" : "debug"
+          },
+          {
+            "description" : "Largest class is \"Open\" with 23 images",
+            "severity" : "debug"
+          }
+        ],
+        "objectDetectorAnalysis" : {
+          "details" : {
+
+          }
+        },
+        "summary" : {
+          "canUseValidation" : 1,
+          "classCount" : 3,
+          "sampleCount" : 50
+        }
+      },
+      "dataSourceID" : "7CCB215E-01F2-47E6-8C0D-D4C7BD881A8E",
+      "dataURL" : "file:///Users/victorkaue/Downloads/HandsPoses/Training/",
+      "itemsCount" : 50
+    },
+    "dataSourceID" : "7CCB215E-01F2-47E6-8C0D-D4C7BD881A8E",
+    "featureExtractionCheckpointMayBeAvailable" : false,
+    "finishTime" : "2025-12-05T18:18:03Z",
+    "progress" : [
+      {
+        "count" : 1,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 14.617952942848206,
+          "hasValidation" : true,
+          "iterationCount" : 1,
+          "loss" : 0.056242586961433076,
+          "trainingAccuracy" : 0.97826087474823,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 5,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 14.617952942848206,
+          "hasValidation" : true,
+          "iterationCount" : 5,
+          "loss" : 0.056242586961433076,
+          "trainingAccuracy" : 0.97826087474823,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 10,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 0,
+          "hasValidation" : true,
+          "iterationCount" : 10,
+          "loss" : 0.005717965686202643,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 15,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 17.71387791633606,
+          "hasValidation" : true,
+          "iterationCount" : 15,
+          "loss" : 0.003597320089885845,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 20,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 0,
+          "hasValidation" : true,
+          "iterationCount" : 20,
+          "loss" : 0.0010237782331767367,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 25,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 20.696619987487793,
+          "hasValidation" : true,
+          "iterationCount" : 25,
+          "loss" : 0.0014948308820006862,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 30,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 0,
+          "hasValidation" : true,
+          "iterationCount" : 30,
+          "loss" : 0.00100052204279609,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 35,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 23.671700954437256,
+          "hasValidation" : true,
+          "iterationCount" : 35,
+          "loss" : 0.0007781121342336361,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 40,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 0,
+          "hasValidation" : true,
+          "iterationCount" : 40,
+          "loss" : 0.0006414396197196857,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 45,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 26.518512964248657,
+          "hasValidation" : true,
+          "iterationCount" : 45,
+          "loss" : 0.002374884380555865,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 46,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 50,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 0,
+          "hasValidation" : true,
+          "iterationCount" : 50,
+          "loss" : 0.0018343394297865494,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 55,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 29.47402799129486,
+          "hasValidation" : true,
+          "iterationCount" : 55,
+          "loss" : 0.0014626891329069043,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 60,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 0,
+          "hasValidation" : true,
+          "iterationCount" : 60,
+          "loss" : 0.0005072892055063699,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 65,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 32.377057909965515,
+          "hasValidation" : true,
+          "iterationCount" : 65,
+          "loss" : 0.0017135640356078078,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 70,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 0,
+          "hasValidation" : true,
+          "iterationCount" : 70,
+          "loss" : 0.001283192923709528,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 75,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 35.24621891975403,
+          "hasValidation" : true,
+          "iterationCount" : 75,
+          "loss" : 0.0007386613563073809,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 80,
+        "currentRowIndex" : 0,
+        "handPoseClassifierColumnHeader" : {
+          "elapsedTime" : 0,
+          "hasValidation" : true,
+          "iterationCount" : 80,
+          "loss" : 0.00044248652973430077,
+          "trainingAccuracy" : 1,
+          "validationAccuracy" : 1
+        },
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      }
+    ],
+    "resumableCheckpoint" : {
+      "checkpointURL" : "file:///Users/victorkaue/Library/Caches/com.apple.dt.createml/projects/808FCC43-15D2-4C18-A9EC-9A6675E0CE151ce3765fb5143611ce1c02292e21628641cfa2f0/sessions/checkpoint.sessions/D3DAFB3C-36C3-4373-807B-C2B9BDBAB226/training-000000080.checkpoint",
+      "createdDate" : "2025-12-05T18:18:03Z",
+      "iteration" : 80
+    },
+    "resumableCheckpointURL" : "Checkpoints/D3DAFB3C-36C3-4373-807B-C2B9BDBAB226.MyHandPoseClassifier1.checkpoint",
+    "snapshottableCheckpointModelURL" : "Checkpoints/D3DAFB3C-36C3-4373-807B-C2B9BDBAB226.MyHandPoseClassifier1.checkpoint/training-000000080.checkpoint.model/checkpointModel.mlmodel",
+    "snapshottableCheckpoints" : {
+      "80" : {
+        "createdDate" : "2025-12-05T18:18:03Z",
+        "iteration" : 80,
+        "modelURL" : "file:///Users/victorkaue/Library/Caches/com.apple.dt.createml/projects/808FCC43-15D2-4C18-A9EC-9A6675E0CE151ce3765fb5143611ce1c02292e21628641cfa2f0/sessions/checkpoint.sessions/D3DAFB3C-36C3-4373-807B-C2B9BDBAB226/training-000000080.checkpoint.model/checkpointModel.mlmodel"
+      }
+    },
+    "startTime" : "2025-12-05T18:17:25Z",
+    "trainingAccuracy" : 1,
+    "trainingResults" : {
+      "actionClassifier" : {
+        "accuracy" : 1,
+        "confusionMatrix" : [
+          {
+            "actual" : "Open",
+            "count" : 21,
+            "expected" : "Open"
+          },
+          {
+            "actual" : "Close",
+            "count" : 12,
+            "expected" : "Close"
+          },
+          {
+            "actual" : "Neutral",
+            "count" : 13,
+            "expected" : "Neutral"
+          }
+        ],
+        "statsByLabel" : {
+          "Close" : {
+            "count" : 12,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 1
+              }
+            }
+          },
+          "Neutral" : {
+            "count" : 13,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 1
+              }
+            }
+          },
+          "Open" : {
+            "count" : 21,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "validationAccuracy" : 1,
+    "validationResults" : {
+      "actionClassifier" : {
+        "accuracy" : 1,
+        "confusionMatrix" : [
+          {
+            "actual" : "Open",
+            "count" : 2,
+            "expected" : "Open"
+          },
+          {
+            "actual" : "Close",
+            "count" : 1,
+            "expected" : "Close"
+          },
+          {
+            "actual" : "Neutral",
+            "count" : 1,
+            "expected" : "Neutral"
+          }
+        ],
+        "statsByLabel" : {
+          "Close" : {
+            "count" : 1,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 1
+              }
+            }
+          },
+          "Neutral" : {
+            "count" : 1,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 1
+              }
+            }
+          },
+          "Open" : {
+            "count" : 2,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 1
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "validationEntity" : {
+    "analysedDataType" : "auto",
+    "dataResult" : {
+      "createdDate" : "2025-12-05T18:17:00Z"
+    },
+    "splitOptions" : {
+      "strategy" : {
+        "automatic" : {
+
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

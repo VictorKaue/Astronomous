@@ -1,0 +1,307 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2025-12-01T19:51:40Z",
+        "event" : "dataSourceCreated",
+        "id" : "6AEEA1B6-B396-4E27-90BD-8287B4DFA32C",
+        "subtitle" : "Training",
+        "title" : "Data Source Created"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2025-12-01T19:51:52Z",
+        "event" : "dataSourceMetrics",
+        "id" : "2CC059AA-4CE1-41DD-A323-A7D5F4882B8E",
+        "subtitle" : "3 Classes, 50 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2025-12-05T18:17:25Z",
+        "event" : "dataSourceMetrics",
+        "id" : "3903E9B4-8CB4-4E8A-A132-60122FF642A8",
+        "subtitle" : "3 Classes, 50 Items",
+        "title" : "Data Summary"
+      }
+    ],
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2025-12-01T19:51:52Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "C767B434-1037-4E76-B43E-2BA665968FBD",
+        "subtitle" : "MyHandPoseClassifier 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2025-12-05T18:17:25Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "32F5D631-4D6C-4233-B79C-24B1287BDA7B",
+        "subtitle" : "MyHandPoseClassifier 1",
+        "title" : "Used By"
+      }
+    ]
+  ],
+  "createdDate" : "2025-12-01T19:51:40Z",
+  "dataPathRelativeToProjectURL" : "../../Downloads/HandsPoses/Training/",
+  "dataResult" : {
+    "classesCount" : 3,
+    "createdDate" : "2025-12-01T19:51:40Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+        "details" : [
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4075.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4107.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4116.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4106.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4083.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4095.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4121.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4120.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4085.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4066.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4065.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4072.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4118.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4125.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4076.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4099.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4086.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4081.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4068.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4070.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4122.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4096.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4115.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4100.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4069.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4073.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4079.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4077.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4101.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4119.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4078.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4103.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4104.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4071.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4087.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4105.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4126.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4098.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4127.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4123.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4074.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4097.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4082.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4084.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4124.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Close/IMG_4117.HEIC",
+          [
+            "Close"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4102.HEIC",
+          [
+            "Neutral"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4067.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Open/IMG_4080.HEIC",
+          [
+            "Open"
+          ],
+          "file:///Users/victorkaue/Downloads/HandsPoses/Training/Neutral/IMG_4094.HEIC",
+          [
+            "Neutral"
+          ]
+        ],
+        "labelStats" : {
+          "Close" : 13,
+          "Neutral" : 14,
+          "Open" : 23
+        }
+      },
+      "issues" : [
+        {
+          "description" : "3 classes found, including Open, Neutral, Close",
+          "severity" : "debug"
+        },
+        {
+          "description" : "50 images found, automatically creating validation set",
+          "severity" : "good"
+        },
+        {
+          "description" : "Smallest class is \"Close\" with 13 images",
+          "severity" : "debug"
+        },
+        {
+          "description" : "Largest class is \"Open\" with 23 images",
+          "severity" : "debug"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "classCount" : 3,
+        "sampleCount" : 50
+      }
+    },
+    "dataSourceID" : "7CCB215E-01F2-47E6-8C0D-D4C7BD881A8E",
+    "dataURL" : "file:///Users/victorkaue/Downloads/HandsPoses/Training/",
+    "itemsCount" : 50
+  },
+  "dataURL" : "file:///Users/victorkaue/Downloads/HandsPoses/Training/",
+  "experimentIDs" : [
+    "DC903765-5A9C-420D-9972-7B83129151EC",
+    "D3DAFB3C-36C3-4373-807B-C2B9BDBAB226"
+  ],
+  "id" : "7CCB215E-01F2-47E6-8C0D-D4C7BD881A8E",
+  "modifiedDate" : "2025-12-05T18:17:25Z",
+  "pathType" : 0,
+  "preferredFilename" : "Training",
+  "title" : "Training",
+  "version" : "1.0"
+}

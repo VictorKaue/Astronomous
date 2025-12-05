@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-12-01T19:51:09Z",
+        "event" : "projectCreated",
+        "id" : "7154E4C9-1C49-4EE9-B296-E0520C8388AE",
+        "subtitle" : "MyHandPoseClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Victor Kaue Lima De Paiva",
+  "createdDate" : "2025-12-01T19:51:09Z",
+  "description" : "",
+  "id" : "808FCC43-15D2-4C18-A9EC-9A6675E0CE15",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-12-01T19:51:09Z",
+  "projectName" : "MyHandPoseClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "handPoseClassifier",
+  "title" : "Hand Pose Classification",
+  "version" : "1.1"
+}
