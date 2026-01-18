@@ -28,7 +28,12 @@ let package = Package(
             ],
             supportedInterfaceOrientations: [
                 .landscapeRight,
-                .landscapeLeft
+                .landscapeLeft,
+                .portrait,
+                .portraitUpsideDown
+            ],
+            appSettings: [
+                    .requiresFullScreen(true)
             ]
         )
     ],

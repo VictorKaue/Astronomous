@@ -1,12 +1,37 @@
 import SwiftUI
 import RealityKit
 
-struct ContentView: View {
-    @StateObject var viewModel = await ContentViewModel()
+struct SpaceView: View {
+    @StateObject var viewModel = SpaceViewModel()
     
     var body: some View {
-        RealityView { content in
+        ZStack{
+            RealityView { content in
+                let rootAnchor = AnchorEntity(world: .zero)
+                rootAnchor.name = "SceneRoot"
+                content.add(rootAnchor)
+                
+            } update: { content in
+                if let sun = viewModel.loadedEntities[.sun],
+                   let root = content.entities.first(where: { $0.name == "SceneRoot" }) {
+                    
+                    if !root.children.contains(sun) {
+                        root.addChild(sun)
+                    }
+                }
+                
+            }
             
+            // UI de feedback (opcional)
+            if !viewModel.loadingTypes.isEmpty {
+                ProgressView("Carregando Astros...")
+                    .padding()
+                    .background(.ultraThinMaterial)
+                    .cornerRadius(10)
+            }
+        }
+        .task {
+            await self.viewModel.loadEntity(.sun)
         }
     }
 }
@@ -14,7 +39,7 @@ struct ContentView: View {
 //struct ContentView: View {
 //    let scale: SIMD3<Float> = [4,4,4]
 //    let position: SIMD3<Float> = [0,0,-1]
-//    
+//
 //    var body: some View {
 //        RealityView { content in
 //            let anchor = AnchorEntity(world: .zero)
@@ -23,27 +48,27 @@ struct ContentView: View {
 //            }
 //            content.add(anchor)
 //        }
-//        
+//
 //    }
-//    
+//
 //    func requestSunFile() async -> Entity? {
 //        do {
 //            let sun = try await Entity.init(named: "Sun", in: nil)
 //            sun.components[RotationComponent.self] = RotationComponent()
 //            sun.position = position
 //            sun.scale = scale
-//            
+//
 //            return sun
 //        } catch{
 //            print("Erro: \(error)")
 //        }
 //        return nil
 //    }
-//    
+//
 //}
 
 #Preview {
-    ContentView()
+    SpaceView()
 }
 
 //
